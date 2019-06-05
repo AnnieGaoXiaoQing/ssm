@@ -28,7 +28,7 @@ public class MessageMapperTest {
     @Test
     public void insert() {
         Message message = new Message();
-        message.setId(2);
+        message.setId(3);
         message.setCommand("吃饭");
         message.setContent("睡觉");
         message.setDescription("打豆豆");
